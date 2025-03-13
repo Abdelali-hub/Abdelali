@@ -14,7 +14,7 @@ Backend: Node.js, Python, Java
 
 ```
 
-### 📫 Contact
+### 📫 Liens Proffessionel 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](votre-lien)
 
 
