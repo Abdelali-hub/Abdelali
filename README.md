@@ -15,7 +15,7 @@ Backend: Node.js, Python, Java
 ```
 
 ### 📫 Liens Proffessionel 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](votre-lien)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/abdelali-boufrahi-derraz-753773a8/)
 
 
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Abdelali-hub) 
